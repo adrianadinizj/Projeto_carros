@@ -25,9 +25,9 @@ let listaCarro = [
         "descricao":"Carro esportivo Vermelho"
     },
     {
-            "nome":"mclaren-elva",
-            "img":"./img/mclaren.png",
-            "descricao":"Carro esportivo Mclaren"
+         "nome":"mclaren-elva",
+         "img":"./img/mclaren.png",
+         "descricao":"Carro esportivo Mclaren"
         }
 
 ]
